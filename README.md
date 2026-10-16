@@ -135,7 +135,7 @@
 
 ```text
         ┌─────────────────────────────────────────┐
-        │   🏀  PLAYBOOK DE RUBÉN                 │
+        │       PLAYBOOK DE RUBÉN                 │
         │                                         │
         │   1. Entender el problema               │
         │   2. Diseñar la jugada                  │
